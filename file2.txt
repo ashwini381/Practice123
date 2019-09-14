@@ -1,4 +1,6 @@
 This i the second file
 Adding second line
+<<<<<<< Updated upstream
 Ading third line
-Adding gourth line
+Adding third line
+Adding fourth line
